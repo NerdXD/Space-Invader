@@ -254,6 +254,7 @@ def main():
         
             
     pygame.quit()
-
-
-main()
+    
+#tiny little check 
+if __name__ == '__main__':
+    main()
